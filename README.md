@@ -14,10 +14,10 @@ La plataforma esta creada con React Js, Context, Firebase y Firestore. Dispone d
 ### Firebase
 \*Firebase es una herramienta de desarrollo de software que permite crear aplicaciones web y móviles de cualquier tipo. En este caso, se usa principalmente para la base de datos y llamar los productos a la tienda.
 
-[### Video:
+[ ### Video:
 ](https://drive.google.com/drive/folders/1XI-UQQ6imGnuGeSzJ9v2q8y_b88zWnM8?usp=sharing)
 
-##Desarrollado con:
+## Desarrollado con:
 
 - [Visual studio code](https://code.visualstudio.com/): Editor de codigo.
 - [React Js](https://reactjs.org/): Una biblioteca de Javascript para crear interfaces de usuario.
@@ -48,6 +48,6 @@ git@github.com:candeaquiles/MaryJuaneProyect.git
 
 npm install
 
-\ *Inicializar el servidor en la terminal
+\* Inicializar el servidor en la terminal
 
 npm start
