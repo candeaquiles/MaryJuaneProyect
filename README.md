@@ -4,12 +4,12 @@
 
 ## Version 1:
 
-\* Los datos estan en Firestore
+- Los datos estan en Firestore
 
 La plataforma esta creada con React Js, Context, Firebase y Firestore. Dispone de las siguientes caracteristicas:
 
 #### Diseño
-\* Hecho con css a mano, con una estructura de carpetas y archivos para organizar el codigo. Bastante basico, haciendo incapie en la funcionalidad. Posteriormente a la entrega, se haran cambios para mejorar la misma.
+- Hecho con css a mano, con una estructura de carpetas y archivos para organizar el codigo. Bastante basico, haciendo incapie en la funcionalidad. Posteriormente a la entrega, se haran cambios para mejorar la misma.
 
 ### Firebase
 - Firebase es una herramienta de desarrollo de software que permite crear aplicaciones web y móviles de cualquier tipo. En este caso, se usa principalmente para la base de datos y llamar los productos a la tienda.
