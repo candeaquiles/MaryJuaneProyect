@@ -1,8 +1,8 @@
 # Ecommerce MaryJuane
 
-##Licencia
+## Licencia
 
-###Version 1:
+### Version 1:
 
 \*Los datos estan en Firestore
 
