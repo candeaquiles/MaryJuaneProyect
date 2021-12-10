@@ -15,7 +15,7 @@ La plataforma creada con React Js, Context, Firebase y Firestore; se basa en una
 ### Firebase
 - Firebase es una herramienta de desarrollo de software que permite crear aplicaciones web y móviles de cualquier tipo. En este caso, se usa principalmente para la base de datos y llamar los productos a la tienda.
 
-[ ### Video:
+### Para visualizar el funcionamiento de la aplicacion, puede acceder al siguiente link : [ Video
 ](https://drive.google.com/drive/folders/1XI-UQQ6imGnuGeSzJ9v2q8y_b88zWnM8?usp=sharing)
 
 ## Desarrollado con:
